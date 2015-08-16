@@ -1,4 +1,11 @@
-#Reproducible Research - Peer Assessment 1
+---
+title: "Reproducible Research - Peer Assessment 1"
+date: "August 17, 2015"
+output: 
+  html_document:
+    keep_md: true
+---
+
 
 ## Loading and preprocessing the data
 1. Load the data
